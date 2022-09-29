@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Home](README.md)
-* [🔗 图床配置](help/README.md)
-  * [⚙ 七牛云](help/七牛云.md)
-  * [⚙ 腾讯云](help/腾讯云.md)
-  * [⚙ GitHub](help/GitHub.md)
-  * [⚙ 阿里云](help/阿里云.md)
+* [🖥 Home](README.md)
+* [🔗 图床配置](tu-chuang-pei-zhi/README.md)
+  * [⚙ 七牛云](tu-chuang-pei-zhi/qi-niu-yun.md)
+  * [⚙ 腾讯云](tu-chuang-pei-zhi/teng-xun-yun.md)
+  * [⚙ GitHub](tu-chuang-pei-zhi/github.md)
+  * [⚙ 阿里云](tu-chuang-pei-zhi/a-li-yun.md)

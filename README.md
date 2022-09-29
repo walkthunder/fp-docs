@@ -3,7 +3,7 @@ description: Home Page
 coverY: 0
 ---
 
-# Home
+# 🖥 Home
 
 ### **Why** FlashPixel <a href="#ying-yong-gai-shu" id="ying-yong-gai-shu"></a>
 
