@@ -1,4 +1,4 @@
-# 图床配置
+# 🔗 图床配置
 
 #### 目前FlashPixel支持四种图床配 <a href="#qi-niu-tu-chuang" id="qi-niu-tu-chuang"></a>
 
